@@ -1,0 +1,7 @@
+{
+  "name": "RunStart",
+  "description": "A customized running app for beginners and weight loss enthusiasts. Features automatic goal generation, real-time pace guidance, and weight loss progress tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
